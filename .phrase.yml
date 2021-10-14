@@ -8,6 +8,6 @@ phrase:
         file_format: simple_json
   pull:
     targets:
-    - file: ./locales/de-DE<locale_name>.json
+    - file: ./locales/de-DE.json
       params:
         file_format: simple_json
