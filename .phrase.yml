@@ -1,6 +1,6 @@
 phrase:
   access_token: fa67d8a554cacec6a825536b5dc58bcf6d592e3b6bf10cf25468471d3cf62213
-  project_id: e9095a62d399c07fb9c9b902e86acf88
+  project_id: 0f7cf1c90812914f9b87fb3d513daa20
   push:
     sources:
     - file: ./locales/en-US.json
