@@ -6,8 +6,10 @@ phrase:
     - file: ./locales/en-US.json
       params:
         file_format: simple_json
+        locale_id: 51ace19f6c3328d26140ff259bf92fd6
   pull:
     targets:
     - file: ./locales/de-DE.json
       params:
         file_format: simple_json
+        locale_id: 41ffe7f6454d6f41e3e5ab9a945654c4
