@@ -1,8 +1,7 @@
 {
-  "simple_key_1": "Introduction......",
-  "simple_key_2": "Just a simple key with a simple message. Simple text.",
-  "simple_key_3": "Ondrej just added a string",
-  "simple_key_4": "Ondrej just added a string string_key4",
-  "simple_key_5": "added",
-  "unverified_key_1": "This translation is not yet verified and waits for it."
+  "simple_key_2": "Nur ein einfacher Schlüssel mit einer einfachen Nachricht.",
+  "simple_key_3": "Ondrej hat gerade eine Zeichenfolge hinzugefügt",
+  "simple_key_4": "Ondrej hat gerade eine Zeichenfolge string_key4 . hinzugefügt",
+  "simple_key_5": "added dee",
+  "unverified_key_2": "Diese Übersetzung ist noch nicht verifiziert und wartet darauf. (In einigen Formaten exportieren wir diesen Status auch)"
 }
